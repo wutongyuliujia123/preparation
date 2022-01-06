@@ -1,0 +1,18 @@
+
+数据结构与算法--时长:[50:53:37]
+一天10集,一个月内可以看完
+https://www.bilibili.com/video/BV1E4411H73v?from=search&seid=2350123511692546499&spm_id_from=333.337.0.0
+
+
+练习题
+
+https://www.nowcoder.com/ta/coding-interviews   [题目有限,可以全部刷完]
+
+
+https://leetcode-cn.com/	[推荐,常驻,刷中等题]
+
+https://www.lintcode.com/	
+
+https://www.dotcpp.com/oj/problemset.php?mark=6
+
+

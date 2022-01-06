@@ -1,0 +1,18 @@
+﻿1 mybatis: https://www.bilibili.com/video/BV1NE411Q7Nx (三四天看完)
+2 spring: https://www.bilibili.com/video/BV1WE411d7Dv (三四天看完)
+3 springmvc: https://www.bilibili.com/video/BV1aE41167Tu(三四天看完)
+
+学完着三大件之后可以试着在b站搜索一些ssm项目做做
+
+4 spring boot:  https://www.bilibili.com/video/BV19K4y1L7MT 
+	(比较难的地方可以看两三集) 一天不超过十集 
+
+前端学习vue之前建议看看es6语法
+5 vue:   https://www.bilibili.com/video/BV1Zy4y1K7SH  一天20集左右
+	看到vue2(p135),不需要看vue3  
+		主要是记笔记 讲师记录的笔记在微信公众号 '尚硅谷' 都可以找到
+
+上面五个学完之后可以写个前后端分离的项目 vue+springboot
+推荐项目 https://www.bilibili.com/video/BV1Pq4y1S7jm
+
+
