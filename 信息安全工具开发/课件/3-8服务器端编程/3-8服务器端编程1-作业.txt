@@ -1,0 +1,1 @@
+简述WSGI将Web服务分成哪两个部分，并画出WGSI服务器泳道图（参考FlaskWeb简介PPT第15、16页）

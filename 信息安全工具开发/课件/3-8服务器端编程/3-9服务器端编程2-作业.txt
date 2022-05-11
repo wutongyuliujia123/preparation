@@ -1,0 +1,6 @@
+ PyMySQL 驱动学习教程：https://www.runoob.com/python3/python3-mysql.html
+作业：
+写出使用pymysql创建数据库表，并向表种插入一条语句。
+数据库名：testDB
+表名：myployee
+表结构：(FIRST_NAME CHAR(20) NOT NULL,LAST_NAME CHAR(20),AGE INT,SEX CHAR(1),INCOME FLOAT)
