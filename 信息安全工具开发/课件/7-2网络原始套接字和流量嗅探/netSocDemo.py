@@ -1,3 +1,4 @@
+#-*- coding:utf-8  -*
 #1.DNS的嗅探
 # import scapy.config
 # from scapy.all import *
@@ -51,7 +52,7 @@ def handlePkt(pkt):
             dnsRecords[rrname].append(rdata)
 
 def main():
-    pkts = rdpcap('Demo3.pcap')
+    pkts = rdpcap('Demo.pcap')
     for pkt in pkts:
         handlePkt(pkt)
     for item in dnsRecords:
